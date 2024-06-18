@@ -2462,7 +2462,7 @@
         "PackageFilesAs" = "3:2"
         "PackageFileSize" = "3:-2147483648"
         "CabType" = "3:1"
-        "Compression" = "3:2"
+        "Compression" = "3:3"
         "SignOutput" = "11:FALSE"
         "CertificateFile" = "8:"
         "PrivateKeyFile" = "8:"
@@ -11696,7 +11696,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_2B73437F2BAE4EAB89D0B315D4C3F0A3"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Finished"
+                    "DisplayName" = "8:已完成"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
@@ -11734,7 +11734,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_7E690B1375764A2883BAFF6106E756EF"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Progress"
+                    "DisplayName" = "8:进度"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
@@ -11779,7 +11779,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_8B1C71D5B7594810B5929C3573D794D2"
                     {
                     "Sequence" = "3:300"
-                    "DisplayName" = "8:Confirm Installation"
+                    "DisplayName" = "8:确认安装"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
@@ -11802,7 +11802,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_F1C09E30FE364650B81262EFF958DA00"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Welcome"
+                    "DisplayName" = "8:欢迎使用"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
@@ -11860,7 +11860,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_34DEE169FE6441D38DCD1D7A9FA974D7"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Finished"
+                    "DisplayName" = "8:已完成"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
@@ -11905,7 +11905,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_33410F61BC03461F914EC09A446AF2C7"
                     {
                     "Sequence" = "3:200"
-                    "DisplayName" = "8:Confirm Installation"
+                    "DisplayName" = "8:确认安装"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
@@ -11928,7 +11928,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_438447CC1A8B427DB29DC79F5F899A12"
                     {
                     "Sequence" = "3:110"
-                    "DisplayName" = "8:License Agreement"
+                    "DisplayName" = "8:许可协议"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdLicenseDlg.wid"
@@ -11976,7 +11976,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_C8CA34B0D881420C82F5A8CFFFD8ECDF"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Welcome"
+                    "DisplayName" = "8:欢迎使用"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
@@ -12034,7 +12034,7 @@
                     "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_92E1F6A4A010471192D5AAA2D4C9F83E"
                     {
                     "Sequence" = "3:100"
-                    "DisplayName" = "8:Progress"
+                    "DisplayName" = "8:进度"
                     "UseDynamicProperties" = "11:TRUE"
                     "IsDependency" = "11:FALSE"
                     "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
